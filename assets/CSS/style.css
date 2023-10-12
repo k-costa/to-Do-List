@@ -5,8 +5,8 @@
     color: #333;
     box-sizing: border-box;
 }
-body{
-    background-image: url(/assets./images/bg.jpg);
+body {
+    background-image: url('/assets/images/bg.jpg');
     background-position: center;
     background-size: cover;
 }
